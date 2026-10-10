@@ -1,0 +1,22 @@
+{
+  "name": "opc-monet-book",
+  "version": "1.0.0",
+  "author": "AI启辰",
+  "description": "OPC商业化变现宝典",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "bootstrap": "5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "posthog-js": "^1.258.2",
+    "vitepress": "^1.0.1",
+    "vue": "^3.4.19"
+  },
+  "devDependencies": {
+    "sass": "^1.71.1"
+  }
+}
